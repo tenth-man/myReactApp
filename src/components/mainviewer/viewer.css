@@ -1,0 +1,6 @@
+.viewer {
+  background: #ccc;
+  width: 100%;
+  min-height: 300px;
+  overflow-y: scroll;
+}
